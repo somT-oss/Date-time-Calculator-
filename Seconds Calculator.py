@@ -2,6 +2,8 @@
 
 import datetime
 
+
+
 name = input('Enter name: ')
 dayOfBirth = int(input('Enter day of birth: '))
 monthOfBirth = int(input('Enter month of birth: '))
